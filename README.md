@@ -2,4 +2,3 @@
 Stochasticity for NCLA for Az (Just for checking)
 
 test code
-ali
